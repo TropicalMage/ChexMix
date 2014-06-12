@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1354403944 source:c:\home\workstation\projects\chexmix\src\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Rules.h"
+	"Director.h"
+	"MoveType.h"
+	"Vec2.h"
+	"Board.h"
+
+1354062510 source:c:\home\workstation\projects\chexmix\src\unit.cpp
+	"Unit.h"
+
+1354063615 c:\home\workstation\projects\chexmix\include\unit.h
+	"types.h"
+
+1354064281 c:\home\workstation\projects\chexmix\include\types.h
+
+1354413943 source:c:\home\workstation\projects\chexmix\src\movetype.cpp
+	"MoveType.h"
+	"Board.h"
+	"GameState.h"
+	<iostream>
+	"Vec2.h"
+	"Rules.h"
+	<cmath>
+
+1354396764 c:\home\workstation\projects\chexmix\include\movetype.h
+	<vector>
+
+1354339620 c:\home\workstation\projects\chexmix\include\vec2.h
+
+1354399335 c:\home\workstation\projects\chexmix\include\board.h
+	"Rules.h"
+	"Vec2.h"
+	<vector>
+
+1354321341 source:c:\home\workstation\projects\chexmix\src\vec2.cpp
+	"Vec2.h"
+
+1354413902 source:c:\home\workstation\projects\chexmix\src\board.cpp
+	"Board.h"
+	"Vec2.h"
+	<iostream>
+	<cmath>
+
+1354417705 c:\home\workstation\projects\chexmix\include\rules.h
+	"Vec2.h"
+
+1354396836 source:c:\home\workstation\projects\chexmix\src\bishopmovetype.cpp
+	"BishopMoveType.h"
+
+1354396888 c:\home\workstation\projects\chexmix\include\bishopmovetype.h
+	"Vec2.h"
+	<vector>
+	"MoveType.h"
+
+1354475642 source:c:\home\workstation\projects\chexmix\src\director.cpp
+	"Director.h"
+	<vector>
+	"Board.h"
+	<iostream>
+	"MoveType.h"
+	"GameState.h"
+
+1354495143 c:\home\workstation\projects\chexmix\include\director.h
+	<string>
+	<vector>
+	"Rules.h"
+	<iostream>
+	"GameState.h"
+
+1354396831 source:c:\home\workstation\projects\chexmix\src\kingmovetype.cpp
+	"KingMoveType.h"
+	"Board.h"
+	"GameState.h"
+	"Vec2.h"
+
+1354396883 c:\home\workstation\projects\chexmix\include\kingmovetype.h
+	"MoveType.h"
+
+1354396824 source:c:\home\workstation\projects\chexmix\src\knightmovetype.cpp
+	"KnightMoveType.h"
+	"Board.h"
+	"GameState.h"
+	"Vec2.h"
+
+1354396878 c:\home\workstation\projects\chexmix\include\knightmovetype.h
+	"MoveType.h"
+
+1354485212 source:c:\home\workstation\projects\chexmix\src\pawnmovetype.cpp
+	"PawnMoveType.h"
+
+1354485186 c:\home\workstation\projects\chexmix\include\pawnmovetype.h
+	"MoveType.h"
+	"Board.h"
+	"GameState.h"
+	"Vec2.h"
+
+1354396796 source:c:\home\workstation\projects\chexmix\src\queenmovetype.cpp
+	"QueenMoveType.h"
+	"Board.h"
+	"GameState.h"
+	"Vec2.h"
+
+1354396867 c:\home\workstation\projects\chexmix\include\queenmovetype.h
+	"MoveType.h"
+
+1354398798 source:c:\home\workstation\projects\chexmix\src\rookmovetype.cpp
+	"RookMoveType.h"
+	"Board.h"
+	"GameState.h"
+	"Vec2.h"
+
+1354396861 c:\home\workstation\projects\chexmix\include\rookmovetype.h
+	"MoveType.h"
+
+1354395289 source:c:\home\workstation\projects\chexmix\src\rules.cpp
+	<cmath>
+	"Rules.h"
+	"MoveType.h"
+	"KingMoveType.h"
+	"QueenMoveType.h"
+	"BishopMoveType.h"
+	"KnightMoveType.h"
+	"RookMoveType.h"
+	"PawnMoveType.h"
+
+1354493526 c:\home\workstation\projects\chexmix\include\gamestate.h
+	"Vec2.h"
+	"Rules.h"
+	"Board.h"
+
+1354405701 source:c:\home\workstation\projects\chexmix\src\gamestate.cpp
+	"GameState.h"
+
